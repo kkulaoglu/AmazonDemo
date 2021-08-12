@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q2ngk9NNbLImYGp+okuVqLHBtZMXrpWAYoXL/Z9m57hLNXgYdo3HRXWqPu/MzrhYhAXse2uxyOR8pqgsGxuIvg==",
+  "success": true,
+  "projectFilePath": "/home/kubilay/codes/dotnetcore/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/kubilay/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.18/microsoft.netcore.app.host.linux-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
